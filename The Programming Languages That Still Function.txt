@@ -1,4 +1,4 @@
 (Programming Languages: An engineered language for expressing computer programs)
 
 1. A+: A high-level, interactive, interpreted array programming language designed for numerically intensive applications, especially those found in financial applications (A+ deposit: https://github.com/PlanetAPL/a-plus)
-2. ABAP: A domain-specific high-level programming language created by the German software company SAP SE (ABAP learning site: https://learning.sap.com/courses/basic-abap-programming)
+2. ABAP (Advanced Business Application Programming): A domain-specific high-level programming language created by the German software company SAP SE (ABAP learning site: https://learning.sap.com/courses/basic-abap-programming)
