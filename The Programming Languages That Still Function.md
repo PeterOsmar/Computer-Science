@@ -4,7 +4,7 @@
 
 &nbsp; &nbsp; $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ especially those found in financial applications
 
-&#x20;  **Websites**: https://github.com/PlanetAPL/a-plus
+&nbsp; &nbsp;  **Websites**: https://github.com/PlanetAPL/a-plus
 
 2\. ABAP
 
