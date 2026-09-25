@@ -8,7 +8,7 @@
 
 &nbsp; &nbsp; \- 1988
 
-&nbsp; &nbsp; $~~$ Arthur Whitney began work on the A programming language to replace APL.
+&nbsp; &nbsp; $~~$  Arthur Whitney began work on the A programming language to replace APL.[2] Other developers at Morgan Stanley extended it to A+, adding a graphical user interface (GUI) and other language features.
 
 &nbsp; &nbsp;  **Websites**: https://github.com/PlanetAPL/a-plus
 
