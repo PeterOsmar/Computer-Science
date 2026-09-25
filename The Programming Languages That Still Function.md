@@ -4,6 +4,8 @@
 
 &nbsp; &nbsp; $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ especially those found in financial applications
 
+&nbsp; &nbsp; **Language Development History**:
+
 &nbsp; &nbsp;  **Websites**: https://github.com/PlanetAPL/a-plus
 
 2\. ABAP
