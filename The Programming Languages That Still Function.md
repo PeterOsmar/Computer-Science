@@ -1,6 +1,6 @@
 1\. A+  
 
-&nbsp;  **Language Comprehension**: High-level, interactive, interpreted array programming language designed for numerically intensive applications,
+&nbsp; &nbsp;  **Language Comprehension**: High-level, interactive, interpreted array programming language designed for numerically intensive applications,
 
 $~~~~~~~~~~~~~~~~~~~~~~~~$ especially those found in financial applications
 
