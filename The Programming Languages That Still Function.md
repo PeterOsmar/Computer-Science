@@ -1,8 +1,8 @@
 1\. A+  
 
-&#x20;  **Language Comprehension**: High-level, interactive, interpreted array programming language designed for numerically intensive applications,
+&nbsp;  **Language Comprehension**: High-level, interactive, interpreted array programming language designed for numerically intensive applications,
 
-&nbsp;  $~~~~~~~~~~~~~~~~~~~~~~~~$ especially those found in financial applications
+$~~~~~~~~~~~~~~~~~~~~~~~~$ especially those found in financial applications
 
 &#x20;  **Websites**: https://github.com/PlanetAPL/a-plus
 
