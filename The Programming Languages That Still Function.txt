@@ -1,5 +1,3 @@
-(Programming Languages: An engineered language for expressing computer programs)
-
 1. A+: A high-level, interactive, interpreted array programming language designed for numerically intensive applications, especially those found in financial
        applications
        (A+ deposit: https://github.com/PlanetAPL/a-plus)
