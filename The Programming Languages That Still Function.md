@@ -8,7 +8,7 @@
 
 &nbsp; &nbsp; \- 1988
 
-&nbsp; &nbsp; $~~$ 555
+&nbsp; &nbsp; $~~$ Arthur Whitney began work on the A programming language to replace APL.
 
 &nbsp; &nbsp;  **Websites**: https://github.com/PlanetAPL/a-plus
 
