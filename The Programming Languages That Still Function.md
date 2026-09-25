@@ -1,8 +1,8 @@
 1\. A+  
 
-&#x20;  **Language Comprehension**: High-level, interactive, interpreted array programming language designed for numerically intensive applications, especially those
+&#x20;  **Language Comprehension**: High-level, interactive, interpreted array programming language designed for numerically intensive applications,
 
-&#x20;  found in financial applications
+&#x20;  especially those found in financial applications
 
 &#x20;  **Websites**: https://github.com/PlanetAPL/a-plus
 
@@ -16,9 +16,9 @@
 
 3\. ABC
 
-&#x20;  **Language Comprehension**: Imperative general-purpose programming language and integrated development environment (IDE) developed at Centrum Wiskunde \&
+&#x20;  **Language Comprehension**: Imperative general-purpose programming language and integrated development environment (IDE) developed at
 
-&#x20;  Informatica (CWI), in Amsterdam, Netherlands by Leo Geurts, Lambert Meertens, and Steven Pemberton
+&#x20;  Centrum Wiskunde \& Informatica (CWI), in Amsterdam, Netherlands by Leo Geurts, Lambert Meertens, and Steven Pemberton
 
 &#x20;  **Websites**: https://homepages.cwi.nl/\~steven/abc/programmers/introduction.html
 
