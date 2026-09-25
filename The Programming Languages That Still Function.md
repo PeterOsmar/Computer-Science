@@ -8,7 +8,7 @@
 
 &nbsp; &nbsp; \- 1988
 
-&nbsp; &nbsp; &nbsp; &nbsp; 555
+&nbsp; &nbsp; &nbsp; 555
 
 &nbsp; &nbsp;  **Websites**: https://github.com/PlanetAPL/a-plus
 
