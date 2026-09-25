@@ -4,7 +4,9 @@
 
 &nbsp; &nbsp; $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ especially those found in financial applications
 
-&nbsp; &nbsp; **Language Development History**:
+&nbsp; &nbsp; **Language Development History**
+
+&nbsp; &nbsp; \- 1988
 
 &nbsp; &nbsp;  **Websites**: https://github.com/PlanetAPL/a-plus
 
