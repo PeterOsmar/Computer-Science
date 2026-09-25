@@ -2,7 +2,7 @@
 
 &#x20;  **Language Comprehension**: High-level, interactive, interpreted array programming language designed for numerically intensive applications,
 
-&#x20;  **                      **  especially those found in financial applications
+                          especially those found in financial applications
 
 &#x20;  **Websites**: https://github.com/PlanetAPL/a-plus
 
