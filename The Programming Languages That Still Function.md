@@ -16,9 +16,9 @@
 
 3\. ABC
 
-&nbsp; &nbsp; **Language Comprehension**: Imperative general-purpose programming language and integrated development environment (IDE) developed at
+&nbsp; &nbsp; **Language Comprehension**: Imperative general-purpose programming language and integrated development environment (IDE) developed
 
-&nbsp; &nbsp; $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Centrum Wiskunde \& Informatica (CWI), in Amsterdam, Netherlands by Leo Geurts, Lambert Meertens, and Steven Pemberton
+&nbsp; &nbsp; $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ at Centrum Wiskunde \& Informatica (CWI), in Amsterdam, Netherlands by Leo Geurts, Lambert Meertens, and Steven Pemberton
 
 &nbsp; &nbsp; **Websites**: https://homepages.cwi.nl/\~steven/abc/programmers/introduction.html
 
