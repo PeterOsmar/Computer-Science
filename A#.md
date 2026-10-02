@@ -10,4 +10,10 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ all of the features of A# and more. As o
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ dead language (there are no known users or implementations).
 
-&nbsp; &nbsp; $~~~$ **Useful Sources**
+**Useful Sources**
+
+| Source names | Source URLs |
+| :------------ | :----------- |
+| The Special Interest Group on Ada | https://www.sigada.org/ |
+| Ada compiler for the .NET Framework | https://asharp.martincarlisle.com/ |
+| Archived webpage for http://www.adacore.com/2007/09/10/adacore-first-to-bring-true-net-integration-to-ada/ | https://web.archive.org/web/20071028102900/http://www.adacore.com/2007/09/10/adacore-first-to-bring-true-net-integration-to-ada/ |
