@@ -4,10 +4,6 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Department of Computer
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ the terms of the GNU General Public License.
 
-&nbsp; &nbsp; $~~~$ **Language History**: AdaCore took over this development in 2007, and announced "GNAT for .NET", which is a fully supported .NET product
-
-&nbsp; &nbsp; $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ with all of the features of A# and more. As of 2021, A# has fallen dramatically in popularity and is considered by some
-
-&nbsp; &nbsp; $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ to be a dead language (there are no known users or implementations).
+**Language History**: AdaCore took over this development in 2007, and announced "GNAT for .NET", which is a fully supported .NET product with all of the features of A# and more. As of 2021, A# has fallen dramatically in popularity and is considered by some to be a dead language (there are no known users or implementations).
 
 &nbsp; &nbsp; $~~~$ **Useful Sources**
