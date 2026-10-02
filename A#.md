@@ -2,7 +2,7 @@
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Department of Computer Science at the United States Air Force Academy as a service to the Ada community
 
-&nbsp; &nbsp; $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ under the terms of the GNU General Public License.
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ under the terms of the GNU General Public License.
 
 &nbsp; &nbsp; $~~~$ **Language History**: AdaCore took over this development in 2007, and announced "GNAT for .NET", which is a fully supported .NET product
 
