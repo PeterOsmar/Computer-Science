@@ -14,7 +14,6 @@
 
 &nbsp; &nbsp; $~~~$ **Useful Sources**
 
-| Source names  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Source names | Source URLs |
+| :------------ | :----------- |
+| The Special Interest Group on Ada  | https://www.sigada.org/ |
