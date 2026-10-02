@@ -13,7 +13,3 @@
 &nbsp; &nbsp; $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ to be a dead language (there are no known users or implementations).
 
 &nbsp; &nbsp; $~~~$ **Useful Sources**
-
-&nbsp; &nbsp; $~~~$ | Source names | Source URLs |
-                    | :------------ | :----------- |
-                    | The Special Interest Group on Ada  | https://www.sigada.org/ |
