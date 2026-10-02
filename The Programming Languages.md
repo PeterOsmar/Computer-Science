@@ -14,6 +14,6 @@
 
 &nbsp; &nbsp; $~~~$ **Useful Sources**
 
-| Source names | Source URLs |
-| :------------ | :----------- |
-| The Special Interest Group on Ada  | https://www.sigada.org/ |
+&nbsp; &nbsp; $~~~$ | Source names | Source URLs |
+                    | :------------ | :----------- |
+                    | The Special Interest Group on Ada  | https://www.sigada.org/ |
