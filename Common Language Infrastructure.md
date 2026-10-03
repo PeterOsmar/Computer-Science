@@ -13,7 +13,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by t
 **5 Aspects of the CLI Specification**
 
 | Aspect names | Aspect descriptions |
-| :------------ | :------------------- |
+| :------------: | :-------------------: |
 | The Common Type System (CTS) | A set of data types and operations that are shared by all CTS-compliant programming languages. |
 | The Metadata | Information about program structure is language-agnostic, so that it can be referenced between languages and tools, making it easy to work with code written in a language the developer is not using. |
 | The Common Language Specification (CLS) | The CLS, a subset of the CTS, are rules to which components developed with/for the supported languages must adhere. They apply to consumers (developers who are programmatically accessing a component that is CLS-compliant), frameworks (developers who are using a language compiler to create CLS-compliant libraries), and extenders (developers who are creating a tool such as a language compiler or a code parser that creates CLS-compliant components). |
