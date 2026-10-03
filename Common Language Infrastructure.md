@@ -37,9 +37,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by t
 | .NET Framework | Microsoft's original commercial implementation of the CLI. It only supports Windows. It was superseded by .NET in November 2020. |
 | .NET | Previously known as .NET Core, is the free and open-source multi-platform successor to .NET Framework, released under the MIT License |
 | .NET Compact Framework | Microsoft's commercial implementation of the CLI for portable devices and Xbox 360. |
-| .NET Micro Framework | an open source implementation of the CLI for resource-constrained devices. |
-| Mono | an alternative open source implementation of CLI and accompanying technologies, mainly used for mobile and game development. |
-| DotGNU | a decommissioned part of the GNU Project started in January 2001 that aimed to provide a free and open source software alternative to Microsoft's .NET Framework. |
+| .NET Micro Framework | An open source implementation of the CLI for resource-constrained devices. |
+| Mono | An alternative open source implementation of CLI and accompanying technologies, mainly used for mobile and game development. |
+| DotGNU | A decommissioned part of the GNU Project started in January 2001 that aimed to provide a free and open source software alternative to Microsoft's .NET Framework. |
 
 **Useful Sources**
 
