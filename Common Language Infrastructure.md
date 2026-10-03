@@ -57,3 +57,4 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by t
 | Source names | Source URLs |
 | :------------ | :----------- |
 | ISO/IEC 23271:2006 | https://www.iso.org/standard/42927.html |
+| Language independence and language-independent components | https://learn.microsoft.com/en-us/dotnet/standard/language-independence |
