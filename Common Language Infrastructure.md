@@ -46,7 +46,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by t
 | Source names | Source URLs |
 | :------------ | :----------- |
 | ISO/IEC 23271:2012 | https://www.iso.org/standard/58046.html |
-| Ada compiler for the .NET Framework | https://asharp.martincarlisle.com/ |
+| Archived webpage for https://www.iso.org/standard/58046.html | https://web.archive.org/web/20230702003946/https://www.iso.org/standard/58046.html |
 | Archived webpage for http://www.adacore.com/2007/09/10/adacore-first-to-bring-true-net-integration-to-ada/ | https://web.archive.org/web/20071028102900/http://www.adacore.com/2007/09/10/adacore-first-to-bring-true-net-integration-to-ada/ |
 | The Mysterious Existence of A# | https://seattlewebsitedevelopers.medium.com/the-mysterious-existence-of-a-325d870ee6a4 |
 | AdaCore First to Bring True .NET Integration to Ada | https://www.adacore.com/press/adacore-first-to-bring-true-net-integration-to-ada |
