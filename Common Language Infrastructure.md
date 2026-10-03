@@ -30,6 +30,17 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by t
 | July 2009 | Microsoft added C# and CLI to the list of specifications that the Microsoft Community Promise applies to, so anyone can safely implement specified editions of the standards without fearing a patent lawsuit from Microsoft. To implement the CLI standard requires conformance to one of the supported and defined profiles of the standard, the minimum of which is the kernel profile. The kernel profile is actually a very small set of types to support in comparison to the well known core library of default .NET installations. However, the conformance clause of the CLI allows for extending the supported profile by adding new methods and types to classes, as well as deriving from new namespaces. But it does not allow for adding new members to interfaces. This means that the features of the CLI can be used and extended, as long as the conforming profile implementation does not change the behavior of a program intended to run on that profile, while allowing for unspecified behavior from programs written specifically for that implementation. |
 | 2012 | Ecma and ISO/IEC published the new edition of the CLI standard. |
 
+**CLI Implementations**
+
+| Implementation names | Descriptions |
+| :--------------------: | :------------: |
+| .NET Framework | Microsoft's original commercial implementation of the CLI. It only supports Windows. It was superseded by .NET in November 2020. |
+| .NET | Previously known as .NET Core, is the free and open-source multi-platform successor to .NET Framework, released under the MIT License |
+| .NET Compact Framework | Microsoft's commercial implementation of the CLI for portable devices and Xbox 360. |
+| .NET Micro Framework | an open source implementation of the CLI for resource-constrained devices. |
+| Mono | an alternative open source implementation of CLI and accompanying technologies, mainly used for mobile and game development. |
+| DotGNU | a decommissioned part of the GNU Project started in January 2001 that aimed to provide a free and open source software alternative to Microsoft's .NET Framework. |
+
 **Useful Sources**
 
 | Source names | Source URLs |
