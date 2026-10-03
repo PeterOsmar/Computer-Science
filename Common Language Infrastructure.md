@@ -45,7 +45,6 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by t
 
 | Source names | Source URLs |
 | :------------ | :----------- |
-| ISO/IEC 23271:2012 | https://www.iso.org/standard/58046.html |
 | Archived webpage for https://www.iso.org/standard/58046.html | https://web.archive.org/web/20230702003946/https://www.iso.org/standard/58046.html |
 | ECMA-335 | https://ecma-international.org/publications-and-standards/standards/ecma-335/ |
 | Archived webpage for https://www.ecma-international.org/publications-and-standards/standards/ecma-335/ | https://web.archive.org/web/20231016101943/https://www.ecma-international.org/publications-and-standards/standards/ecma-335/ |
