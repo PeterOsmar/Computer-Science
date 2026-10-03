@@ -11,6 +11,13 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Framework, .NET and Mono
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by the Windows Runtime.
 
 **5 Aspects of the CLI Specification**
+
++ The Common Type System (CTS)
++ The Metadata
++ The Common Language Specification (CLS)
++ The Virtual Execution System (VES)
++ The Standard Libraries
+
 **Useful Sources**
 
 | Source names | Source URLs |
