@@ -12,11 +12,16 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by t
 
 **5 Aspects of the CLI Specification**
 
-+ The Common Type System (CTS)
-+ The Metadata
-+ The Common Language Specification (CLS)
-+ The Virtual Execution System (VES)
-+ The Standard Libraries
+| Aspect names | Aspect descriptions |
+| :------------ | :------------------- |
+| The Common Type System (CTS) | A set of data types and operations that are shared by all CTS-compliant programming languages. |
+| The Metadata | Information about program structure is language-agnostic, so that it can be referenced between languages and tools, making it easy to work with code written in a language the developer is not using. |
+| The Common Language Specification (CLS) | The CLS, a subset of the CTS, are rules to which components developed with/for the supported languages must adhere.
+They apply to consumers (developers who are programmatically accessing a component that is CLS-compliant), frameworks (developers who are using a language compiler to create CLS-compliant libraries), and extenders (developers who are creating a tool such as a language compiler or a code parser that creates CLS-compliant components). |
+| The Virtual Execution System (VES) | The VES loads and executes CLI-compatible programs, using the metadata to combine separately generated pieces of code at runtime.
+All compatible languages compile to Common Intermediate Language (CIL), which is an intermediate language that is abstracted from the platform hardware. When the code is executed, the platform-specific VES will compile the CIL to the machine language according to the specific hardware and operating system.
+In the CLI standard initially developed by Microsoft, the VES is implemented by the Common Language Runtime (CLR). |
+| The Standard Libraries | A set of libraries providing many common functions, such as file reading and writing. Their core is the Base Class Library (BCL). |
 
 **Useful Sources**
 
