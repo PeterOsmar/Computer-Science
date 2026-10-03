@@ -49,6 +49,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by t
 | Archived webpage for https://www.ecma-international.org/publications-and-standards/standards/ecma-335/ | https://web.archive.org/web/20231016101943/https://www.ecma-international.org/publications-and-standards/standards/ecma-335/ |
 | Archived webpage for https://www.microsoftpressstore.com/articles/article.aspx?p=2199428&seqNum=3 | https://web.archive.org/web/20230330075408/https://www.microsoftpressstore.com/articles/article.aspx?p=2199428&seqNum=3 |
 | Archived webpage for https://tirania.org/blog/archive/2011/Sep-15.html | https://web.archive.org/web/20231130221232/https://tirania.org/blog/archive/2011/Sep-15.html |
+| Archived webpage for http://port25.technet.com/archive/2009/07/06/the-ecma-c-and-cli-standards.aspx | https://web.archive.org/web/20090709232640/http://port25.technet.com/archive/2009/07/06/the-ecma-c-and-cli-standards.aspx |
 
 **Related Sources**
 
