@@ -20,6 +20,8 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by t
 | The Virtual Execution System (VES) | The VES loads and executes CLI-compatible programs, using the metadata to combine separately generated pieces of code at runtime. All compatible languages compile to Common Intermediate Language (CIL), which is an intermediate language that is abstracted from the platform hardware. When the code is executed, the platform-specific VES will compile the CIL to the machine language according to the specific hardware and operating system. In the CLI standard initially developed by Microsoft, the VES is implemented by the Common Language Runtime (CLR). |
 | The Standard Libraries | A set of libraries providing many common functions, such as file reading and writing. Their core is the Base Class Library (BCL). |
 
+**Standard History**: In August 2000, Microsoft, Hewlett-Packard, Intel, and others worked to standardize CLI. By December 2001, it was ratified by the Ecma, with ISO/IEC standardization following in April 2003.
+
 **Useful Sources**
 
 | Source names | Source URLs |
