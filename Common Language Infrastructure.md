@@ -50,6 +50,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by t
 | Archived webpage for https://www.microsoftpressstore.com/articles/article.aspx?p=2199428&seqNum=3 | https://web.archive.org/web/20230330075408/https://www.microsoftpressstore.com/articles/article.aspx?p=2199428&seqNum=3 |
 | Archived webpage for https://tirania.org/blog/archive/2011/Sep-15.html | https://web.archive.org/web/20231130221232/https://tirania.org/blog/archive/2011/Sep-15.html |
 | Archived webpage for http://port25.technet.com/archive/2009/07/06/the-ecma-c-and-cli-standards.aspx | https://web.archive.org/web/20090709232640/http://port25.technet.com/archive/2009/07/06/the-ecma-c-and-cli-standards.aspx |
+| Microsoft Community Promise | https://learn.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/8b8d1b7a-a10a-4667-9558-6d9c43adf60d |
 
 **Related Sources**
 
