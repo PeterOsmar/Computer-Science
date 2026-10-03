@@ -1,8 +1,4 @@
-**Language Comprehension**: A# is a port of the Ada programming language to the Microsoft .NET platform. A# is freely distributed by the
-
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Department of Computer Science at the United States Air Force Academy as a service to the Ada community under
-
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ the terms of the GNU General Public License.
+**Standard Comprehension**: The Common Language Infrastructure (CLI) is an open specification and technical standard originally developed by Microsoft and standardized by ISO/IEC (ISO/IEC 23271) and Ecma International (ECMA 335) that describes executable code and a runtime environment that allows multiple high-level languages to be used on different computer platforms without being rewritten for specific architectures. This implies it is platform agnostic. The .NET Framework, .NET and Mono are implementations of the CLI. The metadata format is also used to specify the API definitions exposed by the Windows Runtime.
 
 **Language History**: AdaCore took over this development in 2007, and announced "GNAT for .NET", which is a fully supported .NET product with
 
