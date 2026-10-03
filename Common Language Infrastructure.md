@@ -56,4 +56,4 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ definitions exposed by t
 
 | Source names | Source URLs |
 | :------------ | :----------- |
-| Archived webpage for http://articleworld.org/A_Sharp_%28.NET%29 | https://web.archive.org/web/20081016062426/http://articleworld.org/A_Sharp_%28.NET%29 |
+| ISO/IEC 23271:2006 | https://www.iso.org/standard/42927.html |
